@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Open PRO',
+  title: 'Dinosaur - The Cutiest Meme Ever',
   description: 'Page description',
 }
 
