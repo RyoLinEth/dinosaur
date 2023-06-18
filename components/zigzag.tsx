@@ -8,20 +8,16 @@ export default function Zigzag() {
   
   const Tokenomics = [
     {
-      content: "Total Supply : 100000000",
+      content: "Total Supply : 100,000,000",
       percent: "100%"
     },
     {
-      content: "Presale : 30000000",
-      percent: "30%"
+      content: "Presale : 67,000,000",
+      percent: "67%"
     },
     {
-      content: "Initial LP : 30000000",
-      percent: "30%"
-    },
-    {
-      content: "Other : 40000000",
-      percent: "40%"
+      content: "Initial LP : 32,461,500",
+      percent: "32.4615%"
     },
   ]
   return (
